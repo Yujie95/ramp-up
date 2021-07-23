@@ -1,0 +1,3 @@
+/Users/lianyujie/Documents/Programming/ramp-up/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/lianyujie/Documents/Programming/ramp-up/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/lianyujie/Documents/Programming/ramp-up/cmake-build-debug/CMakeFiles/ramp_up.dir
